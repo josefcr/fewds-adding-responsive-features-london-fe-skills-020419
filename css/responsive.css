@@ -27,7 +27,7 @@
     font-size:2.2em;
   }
   col-3 p{
-    column-count
+    column-count:2;
   }
 }
 
